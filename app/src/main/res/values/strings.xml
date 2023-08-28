@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GastoViagem</string>
+    <string name="total_de_quilometros">Total de quilometros</string>
+    <string name="litro">Preço por litro</string>
+    <string name="Kms_por_litro">Kms por litro\n</string>
+    <string name="valor_total">R$ 0\n</string>
+</resources>
